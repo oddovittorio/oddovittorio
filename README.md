@@ -1,3 +1,7 @@
+### Vittorio Oddo
+#### Computer Science Student
+![Computer Science Student](https://www.canva.com/design/DAFkzR6cl9s/xpq7dXsX1ZE_gwdYgpXWow/edit?utm_content=DAFkzR6cl9s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 Welcome to my GitHub profile! 👋
 
 I'm Vittorio, a passionate Computer Science student from Germany. Before embarking on my current studies, I pursued a degree in Business Administration at the University of Wuppertal. However, over time, I discovered my true passion lies in Computer Science. This realization led me to make the bold decision to discontinue my Business studies and transition into Computer Science. 💻
@@ -8,5 +12,13 @@ On my GitHub profile, you will find a selection of my projects and work, reflect
 
 Feel free to explore and do not hesitate to contact me if you have any questions or are interested in collaborating. 👨‍🎓
 
-Best regards,
-Vittorio
+Best regards, Vittorio
+
+Skills: C
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
