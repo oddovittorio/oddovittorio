@@ -1,6 +1,5 @@
 ### Vittorio Oddo
 #### Computer Science Student
-![Computer Science Student](https://www.canva.com/design/DAFkzR6cl9s/xpq7dXsX1ZE_gwdYgpXWow/edit?utm_content=DAFkzR6cl9s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Welcome to my GitHub profile! 👋
 
